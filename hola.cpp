@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  std::cout << "HOLA MUNDO" << '\n';
+  std::cout << "HOLA MUNDO 2.0" << '\n';
   std::cout << 10 << '\n';
   std::cout << "10.23" << '\n';
   std::cout << true << '\n';
